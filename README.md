@@ -300,19 +300,6 @@ php artisan migrate --seed
 
 ---
 
-## Assignment checklist (reference)
-
-- [x] Secure login (Sanctum)  
-- [x] RBAC — Admin vs Standard User  
-- [x] Product CRUD with validation  
-- [x] Rich text description (Trix + Purifier)  
-- [x] Search with DB indexing / full-text  
-- [x] Soft delete  
-- [x] Repository + Service architecture  
-- [x] Deployment automation (`deploy.sh`, Docker, Makefile)  
-- [x] Dual setup: Composer + Docker  
-- [x] Seeded admin & user accounts  
-
 ## License
 
 MIT
